@@ -54,8 +54,6 @@ Take a look at the platform in action:
 | <img src="screenshots/checkout_page.png" alt="Checkout" width="400"/> <br> *Seamless Order Processing* | <img src="screenshots/user_profile.png" alt="Profile Dashboard" width="400"/> <br> *User Details & Order History* |
 | <img src="screenshots/login_register.png" alt="Auth Pages" width="400"/> <br> *Secure Authentication* | <img src="screenshots/contact_page.png" alt="Contact Page" width="400"/> <br> *EmailJS Integrated Support* |
 
-> **Note:** If the images above are not displaying, ensure you have placed your screenshots inside the `screenshots/` directory with the exact filenames listed.
-
 ---
 
 ## Technical Architecture & Stack
