@@ -67,7 +67,6 @@ Take a look at the platform in action:
 ### Backend Infrastructure
 - **Server Environment:** PHP 8+ handling robust server-side routing, session management, and API endpoints.
 - **Database:** MySQL utilizing PDO (PHP Data Objects) with prepared statements to prevent SQL injection vulnerabilities.
-- **Session Management:** Hardened cookie sessions ensuring persistent "Remember Me" functionality up to 30 days securely.
 - **State Handling:** Custom JSON responders for AJAX endpoints, coupled with PHP Session-based flash messages for synchronous fallbacks.
 
 ---
