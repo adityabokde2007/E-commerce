@@ -1,0 +1,78 @@
+# ===========================
+# Composer Dependencies
+# ===========================
+/vendor/
+composer.phar
+
+# ===========================
+# Environment & Config Files
+# ===========================
+.env
+.env.*
+.env.local
+.env.production
+config.php
+db_config.php
+database/config.php
+
+# ===========================
+# IDE & Editor Files
+# ===========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# ===========================
+# OS Generated Files
+# ===========================
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ===========================
+# Log & Error Files
+# ===========================
+*.log
+error_log
+/logs/
+php_errors.log
+
+# ===========================
+# User Uploads (runtime data)
+# ===========================
+/uploads/
+/assets/images/uploads/
+
+# ===========================
+# PHP Temp / Cache
+# ===========================
+*.cache
+/cache/
+/tmp/
+/temp/
+
+# ===========================
+# Database Backups
+# ===========================
+/database/*.sql
+*.sql
+*.sqlite
+*.db
+
+# ===========================
+# Session Files
+# ===========================
+/sessions/
+
+# ===========================
+# Security — NEVER commit these
+# ===========================
+*.pem
+*.key
+*.cert
+*.p12
+cookie.txt
